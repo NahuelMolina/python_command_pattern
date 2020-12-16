@@ -1,5 +1,6 @@
 from ABC import ABCMeta, abstractstaticmethod
 import time
+from .controllers.controllersGUI
 
 #receiver
 class Light:
